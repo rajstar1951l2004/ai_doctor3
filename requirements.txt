@@ -1,0 +1,8 @@
+streamlit
+pyrebase4
+gcloud
+google-cloud-storage
+speechrecognition
+pyaudio
+openai
+requests
